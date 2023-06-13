@@ -2,14 +2,14 @@
 This repository contains code and resources for training and using a Convolutional Neural Network (CNN) model to detect brain tumours. The model is implemented using Python and TensorFlow, and it can be executed in Google Colab.
 
 # Table of Contents
-Introduction 
-Usage
-Instructions 
-Dataset
-Model Training
-Model Prediction
-Contributing
-License
++ Introduction
++ Usage
++ Instructions 
++ Dataset
++ Model Training
++ Model Prediction
++ Contributing
++ License
 
 # Introduction
 Brain Tumor Detection using Data Science is a project aimed at automating the process of detecting brain tumours in medical images. The implemented CNN model can analyze brain MRI scans and predict whether an image contains a brain tumour or not. The model achieves accurate results and can be a valuable tool in assisting medical professionals.
@@ -18,7 +18,7 @@ Brain Tumor Detection using Data Science is a project aimed at automating the pr
 To use this project, follow the instructions below to implement the model in Google Colab:
 
 # Instructions
-1. Open the Google Colab website.
+1. Open the [Google Colab](https://colab.research.google.com/) website.
 2. If you are using the same dataset as me then download this dataset from kaggle https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?resource=download then open the zipped file. There will be a file named "brain_tumor_dataset", copy and save it in a downloads or any other folder separately. Now make a folder named "dataset" in colab and make two sub folders namely "yes" and "no". Now upload all the "yes" and "no" folder images by selectiong all, to their respective folders in colab from the folder "brain_tumor_dataset". Now run the code of "SplitCode.py" of this repository in colab. Make necessary folders in colab namely "train", "test", "validation" if required.
 3. If you want to use your own dataset then, upload the dataset to Colab and divide the dataset into 'train','test' and 'validation' set by executing the code provided in the notebook's first section(code file name- "SplitCode.py". Ensure that your dataset is properly organized with "yes" and "no" folders containing brain tumor and non-brain tumor images, respectively.
 4. Proceed to the second section of the notebook and run the code(file name- "BuildModel.py") to build, train, and save the CNN model. Modify the model architecture and hyperparameters according to your requirements.
