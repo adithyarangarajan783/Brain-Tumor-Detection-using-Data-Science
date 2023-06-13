@@ -2,7 +2,7 @@
 This repository contains code and resources for training and using a Convolutional Neural Network (CNN) model to detect brain tumours. The model is implemented using Python and TensorFlow, and it can be executed in Google Colab.
 
 # Table of Contents
-Introduction
+Introduction 
 Usage
 Instructions 
 Dataset
