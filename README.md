@@ -43,4 +43,4 @@ Replace the path to the image file in the provided code with the path to your ow
 Contributions to this project are welcome. Feel free to open issues for any questions or problems you encounter. If you have any suggestions for improvements or new features, you can also submit pull requests.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
