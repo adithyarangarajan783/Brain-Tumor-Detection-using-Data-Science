@@ -2,14 +2,14 @@
 This repository contains code and resources for training and using a Convolutional Neural Network (CNN) model to detect brain tumours. The model is implemented using Python and TensorFlow, and it can be executed in Google Colab.
 
 # Table of Contents
-+ Introduction
-+ Usage
-+ Instructions 
-+ Dataset
-+ Model Training
-+ Model Prediction
-+ Contributing
-+ License
++ [Introduction](https://github.com/adithyarangarajan783/Brain-Tumor-Detection-using-Data-Science/edit/main/README.md#introduction)
++ [Usage](https://github.com/adithyarangarajan783/Brain-Tumor-Detection-using-Data-Science/edit/main/README.md#usage)
++ [Instructions](https://github.com/adithyarangarajan783/Brain-Tumor-Detection-using-Data-Science/edit/main/README.md#instructions) 
++ [Dataset](https://github.com/adithyarangarajan783/Brain-Tumor-Detection-using-Data-Science/edit/main/README.md#dataset)
++ [Model Training](https://github.com/adithyarangarajan783/Brain-Tumor-Detection-using-Data-Science/edit/main/README.md#model-training)
++ [Model Prediction](https://github.com/adithyarangarajan783/Brain-Tumor-Detection-using-Data-Science/edit/main/README.md#model-prediction)
++ [Contributing](https://github.com/adithyarangarajan783/Brain-Tumor-Detection-using-Data-Science/edit/main/README.md#contributing)
++ [License](https://github.com/adithyarangarajan783/Brain-Tumor-Detection-using-Data-Science/edit/main/README.md#license)
 
 # Introduction
 Brain Tumor Detection using Data Science is a project aimed at automating the process of detecting brain tumours in medical images. The implemented CNN model can analyze brain MRI scans and predict whether an image contains a brain tumour or not. The model achieves accurate results and can be a valuable tool in assisting medical professionals.
